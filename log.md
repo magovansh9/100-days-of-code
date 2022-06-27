@@ -7,10 +7,9 @@
 **Thoughts:** Prepping up for the upcoming challenge, excited to commit!
 
 ### Day 1: Jun 27, 2022
-##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: Revisited array problems. Completed the array-mountain traversal problem
+  
+**Thoughts**: You feel crippled when doing LeetCode after a while!!
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/magovansh9/LeetCode-Solutions/blob/main/ValidMountainArray.cpp
