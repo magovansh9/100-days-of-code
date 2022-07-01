@@ -29,3 +29,10 @@
 **Thoughts**: Sometimes intuition is incorrect, learn more about common algorithms to save time such as Floyd's Cycle Finding Algorithm
 
 **Link(s) to work**: https://github.com/magovansh9/LeetCode-Solutions
+
+### Day 4: Jun 30, 2022
+
+**Today's Progress**: Worked on UART0 implementation for an Interprocess communication lab in C
+  
+**Thoughts**: Sometimes you don't get it at all
+
