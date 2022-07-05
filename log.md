@@ -36,3 +36,28 @@
   
 **Thoughts**: Sometimes you don't get it at all
 
+### Day 5: Jul 1, 2022
+
+**Today's Progress**:  Working on KCD signals to CDISP
+  
+**Thoughts**: Working on Lab
+
+### Day 6: Jul 2, 2022
+
+**Today's Progress**:  Figuring out the pUART hardware interrupts
+  
+**Thoughts**: Working on Lab
+
+### Day 7: Jul 3, 2022
+
+**Today's Progress**:  Finished simulator testing for the lab
+  
+**Thoughts**: Working on Lab
+
+### Day 8: Jul 4, 2022
+
+**Today's Progress**:  Finished Lab. Solved two problems for Linked Lists
+  
+**Thoughts**: Sometimes the easy stuff takes a toll. For a second there, I was second...guessing myself pretty hard
+
+
