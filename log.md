@@ -60,4 +60,14 @@
   
 **Thoughts**: Sometimes the easy stuff takes a toll. For a second there, I was second...guessing myself pretty hard
 
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+### Day 9: Jul 5, 2022
+
+**Today's Progress**:  Solved two Linked List problems
+  
+**Thoughts**: Tried a medium, involved recursion was pretty hard. Another medium was easy, gave me my confidence back. Gonna do linked lists this week. Having trouble formulating a plan for solving problems, too much content out there. For now solve problems by data structure -> by patterns -> Grind 75
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
