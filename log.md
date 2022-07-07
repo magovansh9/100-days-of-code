@@ -74,7 +74,15 @@
 
 **Today's Progress**:  Started Beginner's track, solved array problems
   
-**Thoughts**: Array insertions
+**Thoughts**: Good start
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+### Day 11: Jul 7, 2022
+
+**Today's Progress**:  Finished Insert, Delete and Search Array problems for array
+  
+**Thoughts**: I struggle with visualizing the algorithm, visualize the algorithm and then translate it to code
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
