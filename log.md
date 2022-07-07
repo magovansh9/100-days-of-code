@@ -70,4 +70,12 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
+### Day 10: Jul 6, 2022
+
+**Today's Progress**:  Started Beginner's track, solved array problems
+  
+**Thoughts**: Array insertions
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
