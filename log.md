@@ -87,7 +87,7 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
-### Day 11: Jul 18, 2022
+### Day 12: Jul 18, 2022
 
 **Today's Progress**:  Implemented a Linked List class from scratch, did a few array and LL problems
   
