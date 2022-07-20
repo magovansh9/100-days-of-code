@@ -89,9 +89,18 @@
 
 ### Day 12: Jul 18, 2022
 
-**Today's Progress**:  Implemented a Linked List class from scratch, did a few array and LL problems
+**Today's Progress**:  Reviewed a few array and LL problems
   
 **Thoughts**: I BROKE MY STREAK :(((( It's okay, I guess the whole point is to get back to it. We'll do a 100 days if not consecutive 100 days.
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
+### Day 13: Jul 18, 2022
+
+**Today's Progress**:  Implemented a Linked List class design from scratch
+  
+**Thoughts**: Good progress, did a medium problem all by myself very cool
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
