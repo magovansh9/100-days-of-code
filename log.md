@@ -96,11 +96,20 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
-### Day 13: Jul 18, 2022
+### Day 13: Jul 19, 2022
 
 **Today's Progress**:  Implemented a Linked List class design from scratch
   
 **Thoughts**: Good progress, did a medium problem all by myself very cool
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+### Day 14: Jul 20, 2022
+
+**Today's Progress**:  Finished Two-Pointer technique problems in Linked Lists. Review the tips!
+  
+**Thoughts**: The intuition is there, spend some more time thinking and you'll figure it out
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
