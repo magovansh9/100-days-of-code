@@ -113,3 +113,12 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 15: Jul 21, 2022
+
+**Today's Progress**:  Designed a Doubly Linked List. Finished the Linked List Explore Card, let's go!
+  
+**Thoughts**: Onto the next data structure!
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
