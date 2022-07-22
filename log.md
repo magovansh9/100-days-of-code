@@ -112,8 +112,15 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
-
 ### Day 15: Jul 21, 2022
+
+**Today's Progress**:  Solved Odd Even Linked List and Palindrome Linked List questions
+  
+**Thoughts**: Getting consistent
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+### Day 16: Jul 22, 2022
 
 **Today's Progress**:  Designed a Doubly Linked List. Finished the Linked List Explore Card, let's go!
   
