@@ -129,3 +129,12 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 17: Jul 23, 2022
+
+**Today's Progress**:  Started a new data structure Card, Array and String
+  
+**Thoughts**: Keeping it going
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
