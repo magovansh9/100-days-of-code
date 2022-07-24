@@ -138,3 +138,13 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 18: Jul 24, 2022
+
+**Today's Progress**:  Completed Plus One, Find Pivot Index, Find Dominant Index problems
+  
+**Thoughts**: I compared my solutio for Plus One to the one I did when i started, night and day difference. Algorithmic thinking is improving.
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
+
