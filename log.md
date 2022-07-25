@@ -147,4 +147,13 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 18: Jul 25, 2022
+
+**Today's Progress**:  Completed Spiral Matrix and Pascal Triangle problems
+  
+**Thoughts**: Looked at the solution for Spiral Matrix, wanted to do the same for Pascal's but gave it a try by myself. One of the first problems where the logic was hard to derive on paper, but developed intuitively as I wrote more code, solved it in first try🙌
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
 
