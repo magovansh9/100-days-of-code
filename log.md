@@ -155,5 +155,14 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
+### Day 19: Jul 26, 2022
+
+**Today's Progress**:  Pair Programmed with a friend, revised Linked List questions and did a new one "Delete Middle of the Linked List"
+  
+**Thoughts**: Leetcode grind is on even during exam szn
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
 
 
