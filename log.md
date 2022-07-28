@@ -167,7 +167,7 @@
 
 **Today's Progress**:  Did a few string questions, LongestCommonPrefix, ImplementStrstr()
   
-**Thoughts**: I really shouldbe studying for finals
+**Thoughts**: I really should be studying for finals
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
