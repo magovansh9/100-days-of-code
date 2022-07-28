@@ -163,6 +163,14 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
+### Day 20: Jul 27, 2022
+
+**Today's Progress**:  Did a few string questions, LongestCommonPrefix, ImplementStrstr()
+  
+**Thoughts**: I really shouldbe studying for finals
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
 
 
