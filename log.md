@@ -171,6 +171,22 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
+### Day 21: Jul 30, 2022
+
+**Today's Progress**:  Did a few string questions, Reverse string, Array partition 
+  
+**Thoughts**: Watching too much netflix slows you down
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+### Day 21: August 1, 2022
+
+**Today's Progress**:  Finished Explore Card for Arrays and String
+  
+**Thoughts**: Onto Hash Tables
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
 
 
