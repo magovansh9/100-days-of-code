@@ -188,5 +188,14 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 22: August 7, 2022
+
+**Today's Progress**:  Completed Set Questions in the explore card
+  
+**Thoughts**: Be consistent. Onto hash map questions
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
 
 
