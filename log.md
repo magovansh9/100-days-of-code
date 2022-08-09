@@ -196,6 +196,14 @@
 
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
+### Day 23: August 8, 2022
+
+**Today's Progress**:  Completed a few hash map questions
+  
+**Thoughts**: Intuition in the right direction. Practice more, onto speicific hash map questions
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
 
 
 
