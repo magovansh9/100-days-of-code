@@ -205,5 +205,14 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 24: August 23, 2022
+
+**Today's Progress**:  Finished Hash Map technique questions. Starting Stacks and Heaps. 
+  
+**Thoughts**: Practice more, in a timed environment.
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
 
 
