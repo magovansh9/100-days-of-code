@@ -214,5 +214,14 @@
 **Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
 
 
+### Day 24: September 26, 2022
+
+**Today's Progress**:  Huge gap there, coded, switched languages, did OAs in the meantime. Right now, reviewing linked lists in Python.
+  
+**Thoughts**: Get comfortable with Python and get started with Blind 75
+
+**Link(s) to work**: [https://github.com/magovansh9/LeetCode-Solutions](https://github.com/magovansh9/LeetCode-Solutions)
+
+
 
 
